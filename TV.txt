@@ -5,4 +5,3 @@ http://8.138.7.223/live.txt
 http://128.204.223.98:12138/d/guest/box_live.txt
 https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u
 https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.txt
-https://page-github-wz.wzdlz.cloudns.org
