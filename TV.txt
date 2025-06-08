@@ -6,7 +6,7 @@ http://128.204.223.98:12138/d/guest/box_live.txt
 https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u
 https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.txt
 
-
+0 12 * * 5
 
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml
